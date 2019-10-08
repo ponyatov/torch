@@ -8,3 +8,6 @@ lib64
 share/
 pyvenv.cfg
 LICENSE.txt
+
+Untitled.ipynb
+.ipynb_checkpoints/
