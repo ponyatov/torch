@@ -9,5 +9,5 @@ share/
 pyvenv.cfg
 LICENSE.txt
 
-Untitled.ipynb
+Untitled*.ipynb
 .ipynb_checkpoints/
